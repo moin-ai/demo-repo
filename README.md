@@ -1,3 +1,3 @@
 # Demo file
 
-some text
+some text.
